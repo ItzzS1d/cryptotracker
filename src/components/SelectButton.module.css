@@ -1,0 +1,13 @@
+.selectbutton {
+  border: 1px solid gold;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Montserrat";
+  cursor: pointer;
+  background-color: "gold";
+  font-weight: 700;
+  width: 22%;
+  text-align: center;
+}
